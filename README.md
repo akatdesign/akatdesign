@@ -1,4 +1,4 @@
-#  I am kamachi
+# Hey, bro!
 <h3><a href="https://kamaaki.github.io/portfolio">portfolio-site</a></h3>
 
 <p align="left"> 
