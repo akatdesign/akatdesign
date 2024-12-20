@@ -3,4 +3,4 @@
  
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akatdesign&layout=compact&show_icons=true&theme=vue-white" />
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,python,arduino,processing,blender,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,blender,figma&perline=7" />
